@@ -28,12 +28,9 @@ This project is designed for a production ready environment. It can handle the s
 It is suitable for Web Apps, Mobile Apps, and other API services.
 
 # About The Author
-I [Janishar Ali](https://janisharali.com) have created this project using my 10 years of experience in tech industry working for top companies. I enjoy sharing my learnings with the community. You can connect with me here:
-* [Twitter](https://twitter.com/janisharali)
-* [LinkedIn](https://www.linkedin.com/in/janishar-ali)
-* [Instagram](https://www.instagram.com/janisharali)
-
-[Learn from My YouTube Channel](https://www.youtube.com/@janisharali)
+I'm Lenny Bayer have created this project using my 8 years of experience in tech industry working for top companies. I enjoy sharing my learnings with the community. You can connect with me here:
+* [Twitter](https://twitter.com/@lennybayer2002)
+* [LinkedIn](https://www.linkedin.com/in/lenny-bayer)
 
 # Project Instructions
 We will learn and build the backend application for a blogging platform. The main focus will be to create a maintainable and highly testable architecture.
@@ -51,8 +48,6 @@ Following are the features of this project:
 * **Unit test is favored**: The tests have been written to test the functions and routes without the need of the database server. Integration tests has also been done but the unit test is favored.
 * **A pure backend project**: I have experienced that when a backend is developed clubbed with a frontend then in the future it becomes really difficult to scale. We would want to create a separate backend project that servers many websites and mobile apps.
 
-> I have also open source a complete blogging website working on this backend project: [Goto Repository](https://github.com/janishar/react-app-architecture)
-The repository [**React.js Isomorphic Web Application Architecture**] has a complete React.js web application implemented for a blogging platform which is using this project as its API server.
 
 ## 3RE Architecture: Router, RouteHandler, ResponseHandler, ErrorHandler
 <p align="center">
@@ -71,14 +66,6 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
     <img src="https://raw.githubusercontent.com/janishar/nodejs-backend-architecture-typescript/master/addons/github_assets/api-structure.png">
 </p>
 <br>
-
-## Learn the concepts used in this project
-* [Design Node.js Backend Architecture like a Pro](https://janisharali.com/blog/design-node-js-backend-architecture-like-a-pro)
-* [The video guide to build and run this project](https://youtu.be/t7blRxqPIMs)
-* [Implement JSON Web Token (JWT) Authentication using AccessToken and RefreshToken](https://janisharali.com/blog/implement-json-web-token-jwt-authentication-using-access-token-and-refresh-token)
-* [TypeScript Tutorial For Beginners](https://afteracademy.com/blog/typescript-tutorial-for-beginners)
-* [From JavaScript to TypeScript](https://afteracademy.com/blog/from-javascript-to-typescript)
-
 
 ## You can find the complete API documentation [here](https://documenter.getpostman.com/view/1552895/2s8Z6u4a6N)
 <a href="https://documenter.getpostman.com/view/1552895/2s8Z6u4a6N" target="_blank">
@@ -111,14 +98,6 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
     * Change the `DB_HOST` to `localhost` in **.env** and **tests/.env.test** files.
     * Execute `npm start` and You will be able to access the API from http://localhost:3000
     * To run the tests execute `npm test`.
-
-  * Postman APIs Here: 
-    [addons/postman](https://github.com/janishar/nodejs-backend-architecture-typescript/tree/master/addons/postman)
-  
-  ## Learn Backend Development From Our Videos
-  * [Introduction to Web Backend Development for Beginners](https://youtu.be/SikmqyFocKQ)
-  * [Backend System Design for Startups](https://youtube.com/playlist?list=PLuppOTn4pNYeAn-ioA-Meec5I8pQK_gU5)
-  * [Practical Javascript for Beginners](https://youtube.com/playlist?list=PLuppOTn4pNYdowBb05yG2I8wAmHiW7vze)
   
  ## Project Directory Structure
  ```
@@ -270,8 +249,8 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
     * Request Body
     ```json
     {
-        "name" : "Janishar Ali",
-        "email": "ali@github.com",
+        "name" : "Lenny Bayer",
+        "email": "pegasus.c2002@gmail.com",
         "password": "changeit",
         "profilePicUrl": "https://avatars1.githubusercontent.com/u/11065002?s=460&u=1e8e42bda7e6f579a2b216767b2ed986619bbf78&v=4"
     }
@@ -284,7 +263,7 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
       "data": {
         "user": {
           "_id": "63a19e5ba2730d1599d46c0b",
-          "name": "Janishar Ali",
+          "name": "Lenny Bayer",
           "roles": [
              {
                "_id": "63a197b39e07f859826e6626",
@@ -323,7 +302,7 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
       "statusCode": "10000",
       "message": "success",
       "data": {
-        "name": "Janishar Ali Anwar",
+        "name": "Lenny Bayer",
         "profilePicUrl": "https://avatars1.githubusercontent.com/u/11065002?s=460&u=1e8e42bda7e6f579a2b216767b2ed986619bbf78&v=4",
         "roles": [
           {
@@ -348,7 +327,7 @@ The repository [**React.js Isomorphic Web Application Architecture**] has a comp
 
 ### License
 ```
-   Copyright (C) 2022 JANISHAR ALI ANWAR
+   Copyright (C) 2022 Lenny Bayer
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
